@@ -20,3 +20,7 @@ So the HR team collected information about
 5. Work Life Balance as well.
 
 there are almost 35 factors/features the HR team actually provided us to predict the employee retention.
+
+# Steps Involved in this Project:
+
+we're going to perform Feature Engineering, EDA, Feature Importance, Splitting our dataset into train and test, Feature Scaling, Applying classification algorithms & DL model(ANN)
