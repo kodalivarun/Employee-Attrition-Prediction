@@ -17,7 +17,7 @@ So the HR team collected information about
 
 4.Relationship Satisfaction with their team and with their manager as well
 
-5. Work Life Balance as well.
+5.Work Life Balance as well.
 
 there are almost 35 factors/features the HR team actually provided us to predict the employee retention.
 
